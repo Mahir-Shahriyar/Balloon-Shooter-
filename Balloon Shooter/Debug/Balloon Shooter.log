@@ -1,0 +1,15 @@
+﻿Build started 5/27/2018 10:20:08 PM.
+     1>Project "F:\dackup\Balloon Shooter update\Balloon Shooter\Balloon Shooter\Balloon Shooter.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt iMain.cpp
+         iMain.cpp
+     1>f:\dackup\balloon shooter update\balloon shooter\balloon shooter\imain.cpp(35): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdlib.h(909) : see declaration of 'itoa'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\dackup\Balloon Shooter update\Balloon Shooter\Debug\Balloon Shooter.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\dackup\Balloon Shooter update\Balloon Shooter\Debug\Balloon Shooter.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\dackup\Balloon Shooter update\Balloon Shooter\Debug\Balloon Shooter.lib" /MACHINE:X86 Debug\iMain.obj
+         Balloon Shooter.vcxproj -> F:\dackup\Balloon Shooter update\Balloon Shooter\Debug\Balloon Shooter.exe
+     1>Done Building Project "F:\dackup\Balloon Shooter update\Balloon Shooter\Balloon Shooter\Balloon Shooter.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.09
